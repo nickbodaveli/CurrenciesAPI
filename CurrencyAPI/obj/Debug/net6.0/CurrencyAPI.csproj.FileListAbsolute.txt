@@ -26,3 +26,31 @@ C:\Users\nbodaveli\Desktop\DAKO\CurrencyAPI\CurrencyAPI\obj\Debug\net6.0\Currenc
 C:\Users\nbodaveli\Desktop\DAKO\CurrencyAPI\CurrencyAPI\obj\Debug\net6.0\ref\CurrencyAPI.dll
 C:\Users\nbodaveli\Desktop\DAKO\CurrencyAPI\CurrencyAPI\obj\Debug\net6.0\CurrencyAPI.pdb
 C:\Users\nbodaveli\Desktop\DAKO\CurrencyAPI\CurrencyAPI\obj\Debug\net6.0\CurrencyAPI.genruntimeconfig.cache
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\CurrencyAPI.csproj.AssemblyReference.cache
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\CurrencyAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\CurrencyAPI.AssemblyInfoInputs.cache
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\CurrencyAPI.AssemblyInfo.cs
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\CurrencyAPI.csproj.CoreCompileInputs.cache
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\CurrencyAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\CurrencyAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\CurrencyAPI.dll
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\CurrencyAPI.pdb
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\bin\Debug\net6.0\CurrencyAPI.exe
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\bin\Debug\net6.0\CurrencyAPI.deps.json
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\bin\Debug\net6.0\CurrencyAPI.runtimeconfig.json
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\bin\Debug\net6.0\CurrencyAPI.dll
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\bin\Debug\net6.0\CurrencyAPI.pdb
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\scopedcss\bundle\CurrencyAPI.styles.css
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\CurrencyAPI.csproj.CopyComplete
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\refint\CurrencyAPI.dll
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\CurrencyAPI.genruntimeconfig.cache
+C:\Users\D O M I N A T O R\Desktop\CurrenciesAPI\CurrencyAPI\obj\Debug\net6.0\ref\CurrencyAPI.dll

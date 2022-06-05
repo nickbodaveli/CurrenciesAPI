@@ -7,5 +7,6 @@ namespace CurrencyAPI.IServices
         Task<Currencies> Currencies();
         Task<List<Currency>> GetAllCurrencies();
         Task<Currency> GetCurrency(string currencyCode);
+        Task<List<Currency>> returnedCurrencies();
     }
 }

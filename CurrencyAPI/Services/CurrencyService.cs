@@ -9,15 +9,32 @@ namespace CurrencyAPI.Services
     {
         public async Task<List<Currency>> GetAllCurrencies()
         {
-            var currencyCodes = await Currencies();
-            return currencyCodes.currencies.ToList();
+            var currencies = await returnedCurrencies();
+            return currencies.ToList();
         }
 
         public async Task<Currency> GetCurrency(string currencyCode)
         {
-            var currencyCodes = await Currencies();
-            var getCurrency = currencyCodes.currencies.Where(x => x.code == currencyCode);
+            var currencyCodes = await returnedCurrencies();
+            var getCurrency = currencyCodes.Where(x => x.code == currencyCode);
             return getCurrency.FirstOrDefault();
+        }
+
+        public async Task<List<Currency>> returnedCurrencies()
+        {
+            var currencyCodes = await Currencies();
+
+            for (int i = 0; i < currencyCodes.currencies.Count; i++)
+            {
+                if (currencyCodes.currencies[i].validFromDate.DayOfWeek == DayOfWeek.Friday)
+                {
+                    while (currencyCodes.currencies[i].validFromDate.DayOfWeek != DayOfWeek.Monday)
+                    {
+                        currencyCodes.currencies[i].validFromDate = currencyCodes.currencies[i].validFromDate.AddDays(1);
+                    }
+                }
+            }
+            return currencyCodes.currencies;
         }
 
         public async Task<Currencies> Currencies()
